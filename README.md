@@ -9,4 +9,4 @@ Project is writed in Python 3.
 Install python 3 and websockets package.
 
 ### Run the game
-To start game you have to run one server (server.py) and two clients (two client.py files in two single terminals). 
+To start game you have to run one server (server.py) and two clients (two client.py files in two single terminals).
